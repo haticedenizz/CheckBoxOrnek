@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBoxOrnek", "CheckBoxOrnek\CheckBoxOrnek.csproj", "{EBCD4DB2-1463-442F-BBFE-4C64DF6CACB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBCD4DB2-1463-442F-BBFE-4C64DF6CACB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCD4DB2-1463-442F-BBFE-4C64DF6CACB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCD4DB2-1463-442F-BBFE-4C64DF6CACB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCD4DB2-1463-442F-BBFE-4C64DF6CACB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31C87B90-DEE3-4AC0-BAF3-780115E30DC8}
+	EndGlobalSection
+EndGlobal
